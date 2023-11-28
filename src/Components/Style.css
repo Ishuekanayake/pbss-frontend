@@ -1,0 +1,35 @@
+.header_main{
+    background-color: yellowgreen;
+    color: white;
+}
+.home_body{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    background-color: rgb(221, 239, 194);
+    text-align: justify;
+    padding: 50px;
+    border-radius: 10px;
+}
+.empadd_form{
+    background-color: rgb(221, 239, 194);
+    border-radius: 10px;
+}
+
+.aa{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.th_description{
+    width: 50%;
+}
+.form_row{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.aa{
+    padding-top: 50px;
+}
+.bb{
+    padding-bottom: 50px;
+}
